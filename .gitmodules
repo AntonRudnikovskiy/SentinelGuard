@@ -1,0 +1,9 @@
+[submodule "fraud_service"]
+	path = fraud_service
+	url = https://github.com/AntonRudnikovskiy/fraud_service.git
+[submodule "customer_service"]
+	path = customer_service
+	url = https://github.com/AntonRudnikovskiy/customer_service.git
+[submodule "notification_service"]
+	path = notification_service
+	url = https://github.com/AntonRudnikovskiy/notification_service.git
