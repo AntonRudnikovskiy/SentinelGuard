@@ -17,6 +17,8 @@ SentinelGuard - это проект, предназначенный для об�
 ## Технологии
 - Java
 - Spring Boot
+- Spring Cloud
+- Spring Data
 - Kafka
 - PostgreSQL
 - Docker
