@@ -1,4 +1,4 @@
-![image](https://github.com/AntonRudnikovskiy/SentinelGuard/assets/109467887/7805f3fa-dea1-4567-8f87-b5e0fd3c2d38)![image](https://github.com/AntonRudnikovskiy/SentinelGuard/assets/109467887/76fd3e68-3f8b-48e2-8b74-ebebd156aed2)# SentinelGuard
+# SentinelGuard
 
 ## Описание
 SentinelGuard - это проект, предназначенный для обеспечения безопасного и эффективного управления клиентскими и мошенническими данными с использованием микросервисной архитектуры. Основные компоненты проекта включают в себя:
