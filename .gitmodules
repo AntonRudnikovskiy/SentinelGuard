@@ -10,3 +10,6 @@
 [submodule "eureka_server"]
 	path = eureka_server
 	url = https://github.com/AntonRudnikovskiy/eureka_server.git
+[submodule "apigw"]
+	path = apigw
+	url = https://github.com/AntonRudnikovskiy/apigw.git
