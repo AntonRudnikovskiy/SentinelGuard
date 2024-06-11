@@ -1,4 +1,4 @@
-# SentinelGuard
+![image](https://github.com/AntonRudnikovskiy/SentinelGuard/assets/109467887/7805f3fa-dea1-4567-8f87-b5e0fd3c2d38)![image](https://github.com/AntonRudnikovskiy/SentinelGuard/assets/109467887/76fd3e68-3f8b-48e2-8b74-ebebd156aed2)# SentinelGuard
 
 ## Описание
 SentinelGuard - это проект, предназначенный для обеспечения безопасного и эффективного управления клиентскими и мошенническими данными с использованием микросервисной архитектуры. Основные компоненты проекта включают в себя:
@@ -19,7 +19,7 @@ SentinelGuard - это проект, предназначенный для об�
 - Spring Boot
 - Spring Cloud
 - Spring Data
-- Kafka
+- RabbitMQ
 - PostgreSQL
 - Docker
 - Zipkin
@@ -28,4 +28,5 @@ SentinelGuard - это проект, предназначенный для об�
 - Eureka
 
 ## Архитектура:
-![image](https://github.com/AntonRudnikovskiy/SentinelGuard/assets/109467887/b9004141-9c5e-4284-9be9-93f9e524f1d2)
+![image](https://github.com/AntonRudnikovskiy/SentinelGuard/assets/109467887/cc4e4d00-1de3-43d9-9a82-7d663af2dc7a)
+
