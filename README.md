@@ -15,13 +15,13 @@ SentinelGuard - это проект, предназначенный для об�
 9. Sleuth и Zipkin: Реализуют распределенное трассирование для мониторинга и отладки взаимодействий между микросервисами.
 
 ## Технологии
-- Java
-- Spring Boot
-- Spring Cloud
-- Spring Data
+- Java 17
+- Spring(Boot, Cloud, Data)
 - RabbitMQ
 - PostgreSQL
+- Gradle
 - Docker
+- Kubernetes
 - Zipkin
 - Liquibase
 - Sleuth
