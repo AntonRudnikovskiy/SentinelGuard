@@ -16,7 +16,7 @@ SentinelGuard - это проект, предназначенный для об�
 
 ## Технологии
 - Java 17
-- Spring(Boot, Cloud, Data)
+- Spring (Boot, Cloud, Data)
 - RabbitMQ
 - PostgreSQL
 - Gradle
